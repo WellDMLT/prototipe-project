@@ -1,6 +1,6 @@
 import React from 'react';
-import './css/style.css';
-import './css/styles.css';
+import './style.css';
+import './styles.css';
 import logoWhite from './img/logo-white.png'
 /* import logo from './img/logo.png'
  */
