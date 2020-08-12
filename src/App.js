@@ -28,7 +28,7 @@ function App() {
               <span className='heading-primary-sub'>is where life happens</span>
           </h1>
 
-          <a href='#' className='btn btn--white btn-animated'>Discovery  our tours</a>
+          <a href='www.google.com' className='btn btn--white btn-animated'>Discovery  our tours</a>
         </div>
       </header>
 
@@ -59,7 +59,7 @@ function App() {
               Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi nec elementum lorem, vitae semper quam. Integer faucibus iaculis mauris at rhoncus. Duis ullamcorper porta odio eget porta. Vivamus aliquet a quam eu rutrum. Praesent id neque et diam finibus fermentum et in leo. Nunc ut arcu ex. 
               </p>
 
-              <a href='#' className='btn-text'>Learn more &rarr;</a>
+              <a href='www.google.com' className='btn-text'>Learn more &rarr;</a>
 
             </div>
             <div className="col-1-of-2">
@@ -148,7 +148,7 @@ function App() {
                           <p className='card__price-value'>297</p>
                       </div>
 
-                      <a href='#' className='btn btn--white btn-animated'>BOOK NOW</a>
+                      <a href='www.google.com' className='btn btn--white btn-animated'>BOOK NOW</a>
 
                     </div>
                   </div>
@@ -185,7 +185,7 @@ function App() {
                           <p className='card__price-value'>487</p>
                       </div>
 
-                      <a href='#' className='btn btn--white btn-animated'>BOOK NOW</a>
+                      <a href='www.google.com' className='btn btn--white btn-animated'>BOOK NOW</a>
 
                     </div>
                   </div>
@@ -222,7 +222,7 @@ function App() {
                           <p className='card__price-value'>874</p>
                       </div>
 
-                      <a href='#' className='btn btn--white btn-animated'>BOOK NOW</a>
+                      <a href='www.google.com' className='btn btn--white btn-animated'>BOOK NOW</a>
 
                     </div>
                   </div>
@@ -232,7 +232,7 @@ function App() {
             </div>
 
             <div className='u-center-text u-margin-top-huge'>
-              <a href='#' className='btn btn--green'>Discovery  our tours</a>
+              <a href='www.google.com' className='btn btn--green'>Discovery  our tours</a>
             </div>
 
         </section>
@@ -282,7 +282,7 @@ function App() {
           </div>
 
           <div className='u-center-text u-margin-top-huge'>
-              <a href='#' className='btn-text'>Read all stories &rarr;</a>
+              <a href='www.google.com' className='btn-text'>Read all stories &rarr;</a>
           </div>
         </section>
 
